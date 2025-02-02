@@ -1,6 +1,6 @@
 # WebsiteProjects
 
-A collection of front-end web projects using HTML, CSS, and JavaScript, focusing on responsive design and interactivity. 🚀
+A collection of front-end web projects using HTML, CSS, JavaScript and Bootstrap focusing on responsive design and interactivity. 🚀
 <br/>
 <br/>
 <h1>Leblebi Games 🎮</h1>
