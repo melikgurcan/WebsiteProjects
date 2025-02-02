@@ -1,0 +1,72 @@
+.nav-img img {
+    height: 50px;
+    width: auto;
+}
+
+.container img{
+    height: 50px;
+    width: auto;
+}
+
+.container p{
+    font-family: Silkscreen;
+    font-size: 20px;
+}
+
+.container ul a{
+    font-family: Silkscreen;
+}
+
+.carousel-item img {
+    height:800px;
+    width: 100%;
+}
+
+#carouselExampleIndicators{
+    height: 800px;
+}
+
+#cards > h1{
+    padding-left: 30px;
+    color: #ff2e70;
+    text-decoration:underline;
+}
+
+#cards{
+    text-align: center;
+    font-family: Silkscreen;
+}
+
+#cards > hr {
+    width: 80%;
+    margin: 0 auto;
+    border-width: 2px;
+    border-color: #ff2e70;
+    border-style:solid;
+}
+
+.columns{
+    display: flex;
+    gap: 1em;
+}
+
+.card{
+    flex: 1;
+}
+
+.button{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.sect{
+    background-color: #f9f9e0;
+    color: #FFD0D0;
+    cursor: pointer;
+}
+
+.sect:hover{
+    background-color: #FF9EAA;
+    color: #f9f9e0;
+}

@@ -1,0 +1,151 @@
+.nav-img img {
+    height: 50px;
+    width: auto;
+}
+
+.container img{
+    height: 50px;
+    width: auto;
+}
+
+.container p{
+    font-family: Silkscreen;
+    font-size: 20px;
+}
+
+.container ul a{
+    font-family: Silkscreen;
+}
+
+
+body{
+    font-family: Silkscreen;
+}
+
+#wordleGame {
+    text-align: center;
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+    border-width: 2px;
+    border-color: #2a7582;
+}
+
+#title{
+    color: #2a7582;
+    letter-spacing: 2px;
+}
+
+#board{
+    width: 350px;
+    height: 420px;
+    margin: 0 auto;
+    margin-top: 3px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile{
+    /* box */
+    border: 2px solid lightgray;
+    width: 60px;
+    height: 60px;
+    margin: 2.5px;
+
+    /* text */
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.correct{
+    background-color: #6AAA64;
+    color: white;
+    border-color: white;
+}
+
+.present{
+    background-color: #C9B458;
+    color: white;
+    border-color: white;
+}
+
+.absent{
+    background-color: #787C7E;
+    color: white;
+    border-color: white;
+}
+
+#aciklama{
+    align-items: center;
+    border-style: solid;
+    border-radius: 1%;
+    border-color: #2a7582;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+   }
+
+.aciklama{
+    font-size: 20px;
+    color: #2a7582;
+}
+
+h1 > img{
+    height: 80px;
+    width: auto;
+}
+
+#cards > h1{
+    color: #ff2e70;
+    text-decoration:underline;
+}
+
+#cards{
+    text-align: center;
+    font-family: Silkscreen;
+}
+
+#cards > hr {
+    width: 80%;
+    margin: 0 auto;
+    border-width: 2px;
+    border-color: #ff2e70;
+    border-style:solid;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    color: #2a7582;
+    font-weight: bold;
+}
+
+.card-title{
+    text-decoration: underline;
+}
+
+.columns{
+    display: flex;
+    gap: 1em;
+}
+
+.card{
+    flex: 1;
+}
+
+#link > img{
+    height: 200px;
+    width: 280px;
+    border: solid 2px #2a7582;
+}
+
+.card > p{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
